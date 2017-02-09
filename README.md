@@ -1,3 +1,3 @@
 # golang
 
-Just a general dumping grounbd for random golang noodling.
+Just a general dumping ground for random golang noodling.
